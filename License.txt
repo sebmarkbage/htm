@@ -1,0 +1,8 @@
+This is an implementation written by Sebastian Markbåge, 2011. It's based on
+pseudo code described by Jeff Hawkins, Numenta Inc.
+
+This code is strictly intented for non-commercial research purposes only,
+in accordance with the license provided by Numenta Inc. in their research
+papers.
+
+This project is not affiliated with Numenta Inc. in any way.

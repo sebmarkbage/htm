@@ -1,0 +1,9 @@
+ANSI/ASCII Encoding
+Columns:		32 
+Value range:	-0.5 to 2.0
+
+
+0: W
+1: WW
+2: WC
+3: WCW
